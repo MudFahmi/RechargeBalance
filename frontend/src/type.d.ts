@@ -1,0 +1,4 @@
+interface IUserAccount {
+  balance: number;
+}
+
